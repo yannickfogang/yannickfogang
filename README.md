@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I am Yannick Fogang Full Stack and Mobile Web Developer.
+## I am Yannick Fogang Full Stack Web and Mobile Developer.
 
 For 7 years I have been working on digital transformation projects. I work on various projects, whether it is web platform development, website development, mobile application development.
 
 ### 🔭 I’m currently working on 
-- PHP 7
+- PHP
 - JAVASCRIPT
 - HTML / CSS
 
