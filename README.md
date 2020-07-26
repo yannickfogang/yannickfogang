@@ -1,13 +1,10 @@
-![Philadelphia's Magic Gardens. This place was so cool!](https://avatars2.githubusercontent.com/u/46969218?s=460&u=6ba938a9db5ce5e57fe56b512fdb186a16009533&v=4)
-
 ### Hi there 👋
 
-##I am Yannick Fogang Full Stack and Mobile Web Developer.
+## I am Yannick Fogang Full Stack and Mobile Web Developer.
 
 For 7 years I have been working on digital transformation projects. I work on various projects, whether it is web platform development, website development, mobile application development.
 
 ### 🔭 I’m currently working on 
-
 - PHP 7
 - JAVASCRIPT
 - HTML / CSS
